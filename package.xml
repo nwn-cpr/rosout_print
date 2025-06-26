@@ -17,4 +17,5 @@
   <depend>rosgraph_msgs</depend>
 
   <test_depend>catkin_clang_format</test_depend>
+  <test_depend>clang-format-18</test_depend>
 </package>
